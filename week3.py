@@ -1,3 +1,5 @@
+#leetcode-easy:
+
 14. Longest Common Prefix
 
 class Solution:
