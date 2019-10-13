@@ -6,32 +6,26 @@ param1=1
 param2=2
 add(param1, param2)
 
+#基本的加法運算
+# def-定義
+# return-重新定義
+# int{int(number)直接設定成整數，int(string,base)可以任意更換base進位計算十進位的相對值>>>int(10.23)>>>10
+      
+
 2.Given a year, return the century it is in. The first century spans from the year 1 up to and including the year 100, the second - from the year 101 up to and including the year 200, etc.
 
 def centuryFromYear(year):
     return int((year-1) / 100) + 1
+#將年份轉成西元年
     
 3.Given the string, check if it is a palindrome.
 def checkPalindrome(inputString):
-    a=inputString[::-1]
+    a=inputString[::-1]#
     if(inputString==a):
         return True
     else:
         return False
-
-
-4.Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.
-def adjacentElementsProduct(inputArray):
-    return max([inputArray[i]*inputArray[i+1] for i in range(len(inputArray)-1)])
-    
-    
-5.Below we will define an n-interesting polygon. Your task is to find the area of a polygon for a given n.
-
-A 1-interesting polygon is just a square with a side of length 1. An n-interesting polygon is obtained by taking the n - 1-interesting polygon and appending 1-interesting polygons to its rim, side by side. You can see the 1-, 2-, 3- and 4-interesting polygons in the picture below.
-
-def shapeArea(n):
-    return n*n+(n-1)*(n-1)
-    
-6.Ratiorg got statues of different sizes as a present from CodeMaster for his birthday, each statue having an non-negative integer size. Since he likes to make things perfect, he wants to arrange them from smallest to largest so that each statue will be bigger than the previous one exactly by 1. He may need some additional statues to be able to accomplish that. Help him figure out the minimum number of additional statues needed.
-
-def makeArrayConsecutive2(statues):
+#給定字符串，檢查他是否為回文
+#palindrome 回文：順數及倒數都一樣的詞句
+#adjacentElementsProduct:找出數列中相乘最大值
+#len(a) a的長度
