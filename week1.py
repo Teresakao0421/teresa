@@ -10,6 +10,7 @@ add(param1, param2)
 # def-定義
 # return-重新定義
 # int{int(number)直接設定成整數，int(string,base)可以任意更換base進位計算十進位的相對值>>>int(10.23)>>>10
+
       
 
 2.Given a year, return the century it is in. The first century spans from the year 1 up to and including the year 100, the second - from the year 101 up to and including the year 200, etc.
