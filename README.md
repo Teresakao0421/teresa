@@ -10,16 +10,16 @@
 **課堂筆記**
 
 * 每週進度：
-   * week1: [week1](https://github.com/Teresakao0421/teresa/tree/master/week1) 
-   * week2:
+   * 第一週 codsignal 刷題: [week1](https://github.com/Teresakao0421/teresa/tree/master/week1) 
+   * 第二週 leetcode 刷題:[week2](https://github.com/Teresakao0421/teresa/tree/master/week2)
 
-   * week3:
+   * 第三週 leetcode 刷題 :[week3](https://github.com/Teresakao0421/teresa/tree/master/week3)
 
-   * week4:
+   * 第四週:
 
-   * week5:
+   * 第五週:quick sort 功課:[]
 
-   * week6:
+   * 第六週:
 
 **ABOUT ME**
 
