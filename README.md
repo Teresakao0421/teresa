@@ -1,4 +1,4 @@
-# Welcome to My Learning Note
+# Welcome to My Learning Note 巨資3B 06170215 高庭秀
 ## 首先想先介紹這門課：資料結構與演算法
 
 ### 在真的接觸這堂課以前，我會覺得資料結構＋演算法跟寫程式到底有什麼關聯？
