@@ -1,5 +1,9 @@
 # Homework 10/18
-## Quick sort 程式碼:[code](https://github.com/Teresakao0421/teresa/blob/master/quick%20sort/code.py)
+## Quick sort 程式碼:
+[quicksort.pynb](https://github.com/Teresakao0421/teresa/blob/master/quick%20sort/quick%20sort.ipynb)
+如果找不到可以參考下面網址
+[code](https://github.com/Teresakao0421/teresa/blob/master/quick%20sort/code.py)
+
 ## 概念圖：
 ## 流程圖：
 ![](https://github.com/Teresakao0421/teresa/blob/master/quick%20sort/images/第一個圖.jpg)
