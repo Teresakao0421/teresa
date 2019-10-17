@@ -10,8 +10,7 @@
 **課堂筆記**
 
 * 每週進度：
-   * week1: [week1]https://github.com/Teresakao0421/teresa/tree/master/week1 
-
+   * week1: [week1](https://github.com/Teresakao0421/teresa/tree/master/week1) 
    * week2:
 
    * week3:
