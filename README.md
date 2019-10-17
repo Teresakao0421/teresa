@@ -15,7 +15,7 @@
 
    * 第三週 leetcode 刷題 :[week3](https://github.com/Teresakao0421/teresa/tree/master/week3)
 
-   * 第四週:
+   * 第四週:python self study:[learn](https://github.com/Teresakao0421/teresa/tree/master/week4)
 
    * 第五週:quick sort 功課:[quick sort](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort)
 
