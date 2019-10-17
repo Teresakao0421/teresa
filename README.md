@@ -17,7 +17,7 @@
 
    * 第四週:
 
-   * 第五週:quick sort 功課:[]
+   * 第五週:quick sort 功課:[quick sort](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort)
 
    * 第六週:
 
