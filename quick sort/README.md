@@ -4,7 +4,8 @@
 如果找不到可以參考下面網址
 [code](https://github.com/Teresakao0421/teresa/blob/master/quick%20sort/code.py)
 
-## 概念圖：
+## Quick sort的概念圖：
+![](https://github.com/Teresakao0421/teresa/blob/master/quick%20sort/images/概念圖.jpg)
 ## 流程圖：
 ![](https://github.com/Teresakao0421/teresa/blob/master/quick%20sort/images/第一個圖.jpg)
 
