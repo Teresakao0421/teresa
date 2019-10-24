@@ -19,7 +19,7 @@
 
    * 第五週:quick sort 功課:[quick sort](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort)
 
-   * 第六週:heap sort& merge sort 介紹:[heap sort]()
+   * 第六週:heap sort& merge sort 介紹:[heap sort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort)
 
 **ABOUT ME**
 
