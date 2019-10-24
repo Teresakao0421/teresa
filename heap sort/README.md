@@ -14,7 +14,7 @@ Binary Heap有兩項基本特徵：
 其right child為index(7)之node(3)；
 其parent為index(1)之node(9)。
 ### 圖一(a):
-![]()
+![](https://github.com/Teresakao0421/teresa/blob/master/heap%20sort/圖片/圖1(a).png)
 
 圖一(a)：黑色數字是index，藍色數字是value。
 
