@@ -2,7 +2,7 @@
   Merge Sort屬於Divide and Conquer演算法，把問題先拆解(divide)成子問題，並在逐一處理子問題後
  ，將子問題的結果合併(conquer)，如此便解決了原先的問題。
 #### 圖一:
-![]()
+![](https://github.com/Teresakao0421/teresa/blob/master/merge%20sort/圖片%20merge%20sort/merge%20sort%20圖一.png)
 
 以圖一為例，要把數列{5,3,8,6,2,7,1,4}排序成{1,2,3,4,5,6,7,8}，Merge Sort的方法為：
 ## Divide：把數列「對半拆解」成兩個小數列。
