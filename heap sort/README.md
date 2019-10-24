@@ -4,6 +4,7 @@
 
 Binary Heap有兩項基本特徵：
 特徵一：Binary Heap之結構可以視作Complete Binary Tree。
+
 如圖一(a)，數值1~9，一共有9個元素，按照Complete Binary Tree之順序規則，填滿位置1~9，以index(1)~index(9)表示。
 這樣的優點是方便尋找「parent-child」之關係，以index(i)的node為例：
 其left child必定位在index(2i)；
@@ -31,7 +32,7 @@ value(i)<value(2i)
 value(i)<value(2i+1)
 
 ### 圖一(b):
-![]()
+![](https://github.com/Teresakao0421/teresa/blob/master/heap%20sort/圖片/圖1(b).png)
 
 特別注意：在同一個subtree裡，leftchild(index(2i))與rightchild(index(2i+1))的「數值」大小順序不重要，只要和root(index(i))比較即可。
 這也是Binary Heap與Binary Search Tree其中一項區別。
