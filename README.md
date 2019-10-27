@@ -21,7 +21,8 @@
 
    * 第六週:heap sort& merge sort 介紹:[heap sort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort)
                                    [merge sort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)
-                                     
+   * 第七週:heap sort 功課 & merge sort 功課 介紹: [heap sort HW]()  
+                                                [merge sort HW]()
 
 **ABOUT ME**
 
