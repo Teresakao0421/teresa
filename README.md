@@ -21,14 +21,16 @@
 
    * 第六週:heap sort& merge sort 介紹:[heap sort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort)
                                    [merge sort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)
-   * 第七週:binary tree介紹:[binary tree]()
+   * 第七週:binary tree介紹:[binary tree](https://github.com/Teresakao0421/teresa/tree/master/binary%20tree)
    * 第八週：heap sort&merge sort成果:[HW2](https://github.com/Teresakao0421/teresa/tree/master/HW2)
+
+
 **ABOUT ME**
 
 * 高庭秀(Teresa)
   
   * 學校：東吳大學 巨量資料管理學院
   
-  * 生日：1999/4/21
+  * 系級：巨資3B
   
-  * 星座：金牛座
+  
