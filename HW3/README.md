@@ -10,7 +10,7 @@
 
 查找右子樹。
 
-![Search搜尋過程]()
+![Search搜尋過程](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/search-流程圖.jpg)
 
 ## Insert
 向一個二元搜尋樹b中插入一個節點s的算法，過程為：
@@ -23,7 +23,7 @@
 
 否則：把s所指節點插入到右子樹中。（新插入節點總是葉子節點）
 
-![Insert搜尋過程]()
+![Insert搜尋過程](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/insert-流程圖.jpg)
 
 ## Delete
 在二叉查找樹刪去一個結點，分三種情況討論：
@@ -34,11 +34,11 @@
 
 若*p結點的左子樹和右子樹均不空。在刪去*p之後，為保持其它元素之間的相對位置不變，可按中序遍歷保持有序進行調整，可以有兩種做法：其一是令*p的左子樹為*f的左/右（依*p是*f的左子樹還是右子樹而定）子樹，*s為*p左子樹的最右下的結點，而*p的右子樹為*s的右子樹；其二是令*p的直接前驅或直接後繼替代*p，然後再從二叉查找樹中刪去它的直接前驅（或直接後繼）。
 
-![Delete搜尋過程]()
+![Delete搜尋過程](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/delete.jpg)
 
 ## Modify
 在這個tree當中，我想要將一個新的數字取代其中一個舊的數字，但這樣會打壞原本的BST所以我還要將被破壞的BST平衡回來。
 
 只要符合左邊是小於或等於root，右邊是大於root即可。
 
-![Modify搜尋過程]()
+![Modify搜尋過程](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/modify-流程圖.jpg)
