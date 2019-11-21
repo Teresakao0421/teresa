@@ -54,3 +54,7 @@
 只要符合左邊是小於或等於root，右邊是大於root即可。
 
 ![Modify修改過程](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/modify-流程圖.jpg)
+
+參考資料：
+http://alrightchiu.github.io/SecondRound/binary-search-tree-searchsou-xun-zi-liao-insertxin-zeng-zi-liao.html
+http://alrightchiu.github.io/SecondRound/binary-search-tree-sortpai-xu-deleteshan-chu-zi-liao.html
