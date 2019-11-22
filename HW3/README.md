@@ -34,8 +34,8 @@ Binary Search Tree原理：
 查找右子樹。
 
 ![Search搜尋過程](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/search-流程圖.jpg)
-![Search介紹](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/search.jpg)
-![Search介紹2](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/search1.jpg)
+![Search介紹](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/search.png)
+![Search介紹2](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/search1.png)
 
 ## Insert
 ### 新增/插入：函式InsertBST()的概念，可以視為Search()的延伸：根據BST對Key之規則，先找到將要新增之node「適合的位置」，再將欲新增的node接上BST。
@@ -52,7 +52,7 @@ Binary Search Tree原理：
 否則：把s所指節點插入到右子樹中。（新插入節點總是葉子節點）
 
 ![Insert新增過程](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/insert-流程圖.jpg)
-![insert介紹](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/insertt.jpg)
+![insert介紹](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/insertt.png)
 ## Delete
 ### 刪除/移除：要在BST上執行刪除資料(被刪除的node稱為A)，必須讓刪除A後的BST仍然維持BST的性質。因此，所有「具有指向A的pointer」之node(也就是A的parent、leftchild以及rightchild)都必須調整該pointer，使其指向新的記憶體位置。
 
@@ -66,8 +66,8 @@ Binary Search Tree原理：
 若*p結點的左子樹和右子樹均不空。在刪去*p之後，為保持其它元素之間的相對位置不變，可按中序遍歷保持有序進行調整，可以有兩種做法：其一是令*p的左子樹為*f的左/右（依*p是*f的左子樹還是右子樹而定）子樹，*s為*p左子樹的最右下的結點，而*p的右子樹為*s的右子樹；其二是令*p的直接前驅或直接後繼替代*p，然後再從二叉查找樹中刪去它的直接前驅（或直接後繼）。
 
 ![Delete刪除過程](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/delete.png)
-![delete介紹](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/delete11.jpg)
-![delete1介紹](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/delete12.jpg)
+![delete介紹](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/delete11.png)
+![delete1介紹](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/delete12.png)
 ## Modify
 ### 修改/取代：將一個新的數字取代原先舊的數字，也將其舊的數字刪除。會運用到insert&delete的概念。
 
@@ -77,7 +77,7 @@ Binary Search Tree原理：
 只要符合左邊是小於或等於root，右邊是大於root即可。
 
 ![Modify修改過程](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/modify-流程圖.jpg)
-![modify](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/modify1.jpg)
+![modify](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/modify1.png)
 
 參考資料：
 
