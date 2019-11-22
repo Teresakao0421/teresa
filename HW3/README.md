@@ -1,4 +1,24 @@
 # Binary Search Tree - Search.Insert.Delete.Modify功能介紹：
+## binary search tree 原理介紹:
+Binary Search Tree原理：
+
+二叉查找樹是一種特殊的二叉樹。其樹結點的結構和普通二叉樹一樣。所不同的是，我們對二叉查找樹的建立和修改操作都需要使其始終滿足一個條件：對於樹中的每個結點X，它的左子樹中所有關鍵字值小於X的關鍵值，而它的右子樹中所有關鍵字大於X的關鍵值。
+
+正是這個條件二叉查找樹的建立和修改操作和普通二叉樹不一樣，需要按照一定的規則。這一規則賦予二叉查找樹一些性質。
+
+二叉查找樹具有的性質：
+
+1、二叉查找樹具有較好的查找性質（如果構建正確的話）。
+
+2、二叉查找樹的中序遍歷序列是正序排序。
+
+3、最小元素在最左端。最大元素在最右端
+
+第一種情況：root結點是葉子結點。那麼它可以直接被刪除。而不會影響其他結點。
+
+第二種情況：root結點具有一個孩子（左或者右）。那麼把z的孩子接在z的雙親上，就不會破壞樹的性質。
+
+第三種情況：root結點具有兩個孩子。對於這種情況，可能存在不同的處理方法。 
 ## Search
 ### 查詢/搜尋：BST的Search()操作，便是根據BST的特徵：Key(L)<Key(Current)<Key(R)，判斷Current應該往left subtree走，還是往right subtree走。
 
@@ -58,3 +78,4 @@
 參考資料：
 http://alrightchiu.github.io/SecondRound/binary-search-tree-searchsou-xun-zi-liao-insertxin-zeng-zi-liao.html
 http://alrightchiu.github.io/SecondRound/binary-search-tree-sortpai-xu-deleteshan-chu-zi-liao.html
+https://my.oschina.net/amince/blog/295618
