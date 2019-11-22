@@ -1,5 +1,5 @@
 # Binary Search Tree - Search.Insert.Delete.Modify功能介紹：
-## binary search tree 原理介紹:
+## binary search tree 原理介紹:(學習歷程裡也有附)
 Binary Search Tree原理：
 
 二叉查找樹是一種特殊的二叉樹。其樹結點的結構和普通二叉樹一樣。所不同的是，我們對二叉查找樹的建立和修改操作都需要使其始終滿足一個條件：對於樹中的每個結點X，它的左子樹中所有關鍵字值小於X的關鍵值，而它的右子樹中所有關鍵字大於X的關鍵值。
