@@ -52,7 +52,7 @@ Binary Search Tree原理：
 否則：把s所指節點插入到右子樹中。（新插入節點總是葉子節點）
 
 ![Insert新增過程](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/insert-流程圖.jpg)
-![insert介紹](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/insertt.png)
+![insert介紹](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/binary%20tree/inserttt.png)
 ## Delete
 ### 刪除/移除：要在BST上執行刪除資料(被刪除的node稱為A)，必須讓刪除A後的BST仍然維持BST的性質。因此，所有「具有指向A的pointer」之node(也就是A的parent、leftchild以及rightchild)都必須調整該pointer，使其指向新的記憶體位置。
 
