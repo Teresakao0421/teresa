@@ -26,7 +26,7 @@
    * 第九週：Binary search tree 成果:[BFS流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW3)
    * 第十週：Hash table 成果:[Hash table流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW4)
    * 第十ㄧ週：Breadth First Search & Depth First Search:[BFS&DFS流程圖](https://github.com/Teresakao0421/teresa/tree/master/HW)
-   * 第十二週：Breadth First Search & Depth First Search成果:[HW5](https://github.com/Teresakao0421/teresa/tree/master/HW5)
+   * 第十二週：Breadth First Search & Depth First Search成果:[BFS&DFS流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW5)
 
 
 **ABOUT ME**
