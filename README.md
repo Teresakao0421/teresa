@@ -10,21 +10,21 @@
 **課堂筆記**
 
 * 每週進度：
-   * 第一週 codsignal 刷題: [week1](https://github.com/Teresakao0421/teresa/tree/master/week1) 
-   * 第二週 leetcode刷題.linked list:[week2](https://github.com/Teresakao0421/teresa/tree/master/week2)
+   * 第一週 codsignal 刷題: [week1.learn](https://github.com/Teresakao0421/teresa/tree/master/week1) 
+   * 第二週 leetcode刷題.linked list:[week2.Linked list](https://github.com/Teresakao0421/teresa/tree/master/week2)
 
    * 第三週 leetcode 刷題 :[week3](https://github.com/Teresakao0421/teresa/tree/master/week3)
 
    * 第四週:python self study:[learn](https://github.com/Teresakao0421/teresa/tree/master/week4)
 
-   * 第五週:quick sort 功課:[quick sort](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort)
+   * 第五週:quick sort 功課:[quick sort流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort)
 
    * 第六週:heap sort& merge sort 介紹:[heap sort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort)
                                    [merge sort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)
    * 第七週:binary tree介紹:[binary tree](https://github.com/Teresakao0421/teresa/tree/master/binary%20tree)
-   * 第八週：heap sort&merge sort成果:[HW2](https://github.com/Teresakao0421/teresa/tree/master/HW2)
-   * 第九週：Binary search tree 成果:[HW3](https://github.com/Teresakao0421/teresa/tree/master/HW3)
-   * 第十週：Hash table 成果:[HW4](https://github.com/Teresakao0421/teresa/tree/master/HW4)
+   * 第八週：heap sort&merge sort成果:[heap sort&merge sort流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW2)
+   * 第九週：Binary search tree 成果:[BFS流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW3)
+   * 第十週：Hash table 成果:[Hash table流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW4)
    * 第十ㄧ週：Breadth First Search & Depth First Search:[BFS&DFS流程圖](https://github.com/Teresakao0421/teresa/tree/master/HW)
    * 第十二週：Breadth First Search & Depth First Search成果:[HW5](https://github.com/Teresakao0421/teresa/tree/master/HW5)
 
