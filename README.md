@@ -27,7 +27,7 @@
    * 第十週：Hash table 成果:[Hash Table流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW4)
    * 第十ㄧ週：Breadth First Search & Depth First Search:[BFS&DFS流程圖](https://github.com/Teresakao0421/teresa/tree/master/HW)
    * 第十二週：Breadth First Search & Depth First Search成果:[BFS&DFS流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW5)
-   * 第十三週:Dijkstra與Kruska:[Dijkstra與Krusk](https://github.com/Teresakao0421/teresa/tree/master/HW6)
+   * 第十三週:Dijkstra與Kruska:[Dijkstra & Kruska](https://github.com/Teresakao0421/teresa/tree/master/HW6)
 
 **ABOUT ME**
 
