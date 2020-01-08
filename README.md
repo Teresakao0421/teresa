@@ -10,7 +10,7 @@
 ## code
 | CodeSignal | LeetCode | CS50 |
 | :---: | :---: | :---: |
-| [Codesignal](https://github.com/hans0517/hans/tree/master/Codesignal) | [Leetcode](https://github.com/hans0517/hans/tree/master/Leetcode) | [CS50](https://github.com/hans0517/hans/tree/master/CS50)
+| [Codesignal](https://github.com/hans0517/hans/tree/master/Codesignal) | [Leetcode](https://github.com/Teresakao0421/teresa/tree/master/Leetcode) | [CS50](https://github.com/hans0517/hans/tree/master/CS50)
 
 ## HW
 | HW        | LINK           | 
@@ -52,5 +52,9 @@
   * 學校：東吳大學 巨量資料管理學院
   
   * 系級：巨資3B
+  
+  * 學號：06170215
+  
+  * 程式：python
   
   
