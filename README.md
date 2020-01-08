@@ -37,24 +37,37 @@
 ## HW
 | HW        | LINK           | 
 | :---: | :---: | 
-| HW1 | [QuickSort](https://github.com/hans0517/hans/tree/master/HW1) |
-| HW2 | [MergeSort+HeapSort](https://github.com/hans0517/hans/tree/master/HW2) | 
+| HW1 | [QuickSort](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort) |
+| HW2 | [MergeSort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)
+        [HeapSort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort)|
 | HW3 | [BinarySearchTree](https://github.com/hans0517/hans/tree/master/HW3) | 
 | HW4 | [HashTable](https://github.com/hans0517/hans/tree/master/HW4) |
 | HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/hans0517/hans/tree/master/HW5) |
 | HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/hans0517/hans/tree/master/HW6) |
+
 ## 
 | 週別        | 課程內容           | 
 | :---: | :---: | 
-| week1 | 課堂介紹 | week10 | RedBlackTree |
-| week2 | [Linked List](https://github.com/hans0517/hans/tree/master/week2) | week11 | Hash Table | BinaryTree |
-| week3 | [Stack&Queue](https://github.com/hans0517/hans/tree/master/week3) | week12 | Pair Programming&Breadth-First Search | BinarySearchTree |
-| week4 | [Set Missmatch&Insertion Sort&Quick Sort](https://github.com/hans0517/hans/tree/master/week4) | week13 | Depth-First Search |
-| week5 | 雙十放假 | week14 | Minimum Spanning Tree |
-| week6 | Spyder&HeapSort | week15 | Shortest Path |
-| week7 | MergeSort | week16 | OverView |
-| week8 | BinaryTree | week17 | FinalTest |
-| week9 | BinarySearchTree | week18 | Holiday |
+| week1 | 課堂介紹 | 
+| week2 | [Linked List](https://github.com/hans0517/hans/tree/master/week2) | 
+| week3 | [Stack&Queue](https://github.com/hans0517/hans/tree/master/week3) | 
+| week4 | [Set Missmatch&Insertion Sort&Quick Sort](https://github.com/hans0517/hans/tree/master/week4) | 
+| week5 | 雙十放假 | 
+| week6 | Spyder&HeapSort | 
+| week7 | MergeSort | 
+| week8 | BinaryTree | 
+| week9 | BinarySearchTree | 
+| week10 | RedBlackTree |
+| week11 | Hash Table | BinaryTree |
+| week12 | Pair Programming&Breadth-First Search | BinarySearchTree |
+| week13 | Depth-First Search |
+| week14 | Minimum Spanning Tree |
+| week15 | Shortest Path |
+| week16 | OverView |
+| week17 | FinalTest |
+| week18 | Holiday |
+
+
 **ABOUT ME**
 
 * 高庭秀(Teresa)
