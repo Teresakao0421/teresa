@@ -29,6 +29,32 @@
    * 第十二週：Breadth First Search & Depth First Search成果:[BFS&DFS流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW5)
    * 第十三週:Dijkstra與Kruska:[Dijkstra & Kruska](https://github.com/Teresakao0421/teresa/tree/master/HW6)
 
+## 程式學習
+| CodeSignal | LeetCode | CS50 |
+| :---: | :---: | :---: |
+| [Codesignal](https://github.com/hans0517/hans/tree/master/Codesignal) | [Leetcode](https://github.com/hans0517/hans/tree/master/Leetcode) | [CS50](https://github.com/hans0517/hans/tree/master/CS50)
+
+## HW
+| HW        | LINK           | 
+| :---: | :---: | 
+| HW1 | [QuickSort](https://github.com/hans0517/hans/tree/master/HW1) |
+| HW2 | [MergeSort+HeapSort](https://github.com/hans0517/hans/tree/master/HW2) | 
+| HW3 | [BinarySearchTree](https://github.com/hans0517/hans/tree/master/HW3) | 
+| HW4 | [HashTable](https://github.com/hans0517/hans/tree/master/HW4) |
+| HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/hans0517/hans/tree/master/HW5) |
+| HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/hans0517/hans/tree/master/HW6) |
+## 
+| 週別        | 課程內容           | 
+| :---: | :---: | 
+| week1 | 課堂介紹 | week10 | RedBlackTree |
+| week2 | [Linked List](https://github.com/hans0517/hans/tree/master/week2) | week11 | Hash Table | BinaryTree |
+| week3 | [Stack&Queue](https://github.com/hans0517/hans/tree/master/week3) | week12 | Pair Programming&Breadth-First Search | BinarySearchTree |
+| week4 | [Set Missmatch&Insertion Sort&Quick Sort](https://github.com/hans0517/hans/tree/master/week4) | week13 | Depth-First Search |
+| week5 | 雙十放假 | week14 | Minimum Spanning Tree |
+| week6 | Spyder&HeapSort | week15 | Shortest Path |
+| week7 | MergeSort | week16 | OverView |
+| week8 | BinaryTree | week17 | FinalTest |
+| week9 | BinarySearchTree | week18 | Holiday |
 **ABOUT ME**
 
 * 高庭秀(Teresa)
