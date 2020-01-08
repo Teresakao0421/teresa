@@ -38,31 +38,30 @@
 | HW        | LINK           | 
 | :---: | :---: | 
 | HW1 | [QuickSort](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort) |
-| HW2 | [MergeSort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)
-        [HeapSort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort)|
-| HW3 | [BinarySearchTree](https://github.com/hans0517/hans/tree/master/HW3) | 
-| HW4 | [HashTable](https://github.com/hans0517/hans/tree/master/HW4) |
-| HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/hans0517/hans/tree/master/HW5) |
-| HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/hans0517/hans/tree/master/HW6) |
+| HW2 | [MergeSort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)&[HeapSort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort)|
+| HW3 | [BinarySearchTree](https://github.com/Teresakao0421/teresa/tree/master/HW3) | 
+| HW4 | [HashTable](https://github.com/Teresakao0421/teresa/tree/master/HW4) |
+| HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/Teresakao0421/teresa/tree/master/HW5) |
+| HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/Teresakao0421/teresa/tree/master/HW6) |
 
 ## 
 | 週別        | 課程內容           | 
 | :---: | :---: | 
 | week1 | 課堂介紹 | 
-| week2 | [Linked List](https://github.com/hans0517/hans/tree/master/week2) | 
-| week3 | [Stack&Queue](https://github.com/hans0517/hans/tree/master/week3) | 
-| week4 | [Set Missmatch&Insertion Sort&Quick Sort](https://github.com/hans0517/hans/tree/master/week4) | 
+| week2 | [Linked List](https://github.com/Teresakao0421/teresa/tree/master/week2) | 
+| week3 | [Stack&Queue](https://github.com/Teresakao0421/teresa/tree/master/week3) | 
+| week4 | [Quick Sort](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort)&[Set Mismatch]()&[Insertion Sort]() | 
 | week5 | 雙十放假 | 
-| week6 | Spyder&HeapSort | 
-| week7 | MergeSort | 
-| week8 | BinaryTree | 
-| week9 | BinarySearchTree | 
-| week10 | RedBlackTree |
-| week11 | Hash Table | BinaryTree |
-| week12 | Pair Programming&Breadth-First Search | BinarySearchTree |
-| week13 | Depth-First Search |
-| week14 | Minimum Spanning Tree |
-| week15 | Shortest Path |
+| week6 | [Spyder&HeapSort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort) | 
+| week7 | [MergeSort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)| 
+| week8 | [BinaryTree]() | 
+| week9 | [BinarySearchTree](https://github.com/Teresakao0421/teresa/tree/master/HW3) | 
+| week10 | [RedBlackTree] ()|
+| week11 | [Hash Table | BinaryTree](https://github.com/Teresakao0421/teresa/tree/master/HW4)|
+| week12 | [Pair Programming&Breadth-First Search | BinarySearchTree(https://github.com/Teresakao0421/teresa/tree/master/HW3)|
+| week13 | [Depth-First Search](https://github.com/Teresakao0421/teresa/tree/master/HW5) |
+| week14 | [Minimum Spanning Tree](https://github.com/Teresakao0421/teresa/tree/master/HW6)|
+| week15 | [Shortest Path](https://github.com/Teresakao0421/teresa/tree/master/HW6)|
 | week16 | OverView |
 | week17 | FinalTest |
 | week18 | Holiday |
