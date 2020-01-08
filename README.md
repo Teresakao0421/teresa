@@ -50,15 +50,15 @@
 | week1 | 課堂介紹 | 
 | week2 | [Linked List](https://github.com/Teresakao0421/teresa/tree/master/week2) | 
 | week3 | [Stack&Queue](https://github.com/Teresakao0421/teresa/tree/master/week3) | 
-| week4 | [Quick Sort](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort)&[Set Mismatch]()&[Insertion Sort]() | 
+| week4 | [Quick Sort](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort)&[Set Mismatch](https://github.com/Teresakao0421/teresa/tree/master/code)&[Insertion Sort](https://github.com/Teresakao0421/teresa/tree/master/code) | 
 | week5 | 雙十放假 | 
 | week6 | [Spyder&HeapSort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort) | 
 | week7 | [MergeSort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)| 
-| week8 | [BinaryTree]() | 
+| week8 | [BinaryTree](https://github.com/Teresakao0421/teresa/tree/master/code) | 
 | week9 | [BinarySearchTree](https://github.com/Teresakao0421/teresa/tree/master/HW3) | 
-| week10 | [RedBlackTree] ()|
-| week11 | [Hash Table | BinaryTree](https://github.com/Teresakao0421/teresa/tree/master/HW4)|
-| week12 | [Pair Programming&Breadth-First Search | BinarySearchTree(https://github.com/Teresakao0421/teresa/tree/master/HW3)|
+| week10 | [RedBlackTree] (https://github.com/Teresakao0421/teresa/tree/master/code)    |
+| week11 | [Hash Table | BinaryTree](https://github.com/Teresakao0421/teresa/tree/master/HW4)  |
+| week12 | [Pair Programming&Breadth-First Search|BinarySearchTree(https://github.com/Teresakao0421/teresa/tree/master/HW3)               |
 | week13 | [Depth-First Search](https://github.com/Teresakao0421/teresa/tree/master/HW5) |
 | week14 | [Minimum Spanning Tree](https://github.com/Teresakao0421/teresa/tree/master/HW6)|
 | week15 | [Shortest Path](https://github.com/Teresakao0421/teresa/tree/master/HW6)|
