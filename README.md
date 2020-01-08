@@ -1,4 +1,4 @@
-# Welcome to My Learning Note 巨資3B 06170215 高庭秀
+# Welcome to My Learning Note 
 ## 首先想先介紹這門課：資料結構與演算法
 
 ### 在真的接觸這堂課以前，我會覺得資料結構＋演算法跟寫程式到底有什麼關聯？
@@ -7,29 +7,7 @@
 希望能透過github記錄著我學習程式的點點滴滴！
 
 
-**課堂筆記**
-
-* 每週進度：
-   * 第一週 codsignal 刷題: [Learn](https://github.com/Teresakao0421/teresa/tree/master/week1) 
-   * 第二週 leetcode刷題.linked list:[Linked list](https://github.com/Teresakao0421/teresa/tree/master/week2)
-
-   * 第三週 leetcode 刷題 :[Stack & Queue](https://github.com/Teresakao0421/teresa/tree/master/week3)
-
-   * 第四週:python self study:[Learn](https://github.com/Teresakao0421/teresa/tree/master/week4)
-
-   * 第五週:quick sort 功課:[Quick Sort流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort)
-
-   * 第六週:heap sort& merge sort 介紹:[Heap Sort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort)
-                                   [Merge Sort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)
-   * 第七週:binary tree介紹:[Binary Tree](https://github.com/Teresakao0421/teresa/tree/master/binary%20tree)
-   * 第八週：heap sort&merge sort成果:[Heap Sort&Merge Sort流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW2)
-   * 第九週：Binary search tree 成果:[BFS流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW3)
-   * 第十週：Hash table 成果:[Hash Table流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW4)
-   * 第十ㄧ週：Breadth First Search & Depth First Search:[BFS&DFS流程圖](https://github.com/Teresakao0421/teresa/tree/master/HW)
-   * 第十二週：Breadth First Search & Depth First Search成果:[BFS&DFS流程圖&code](https://github.com/Teresakao0421/teresa/tree/master/HW5)
-   * 第十三週:Dijkstra與Kruska:[Dijkstra & Kruska](https://github.com/Teresakao0421/teresa/tree/master/HW6)
-
-## 程式學習
+## code
 | CodeSignal | LeetCode | CS50 |
 | :---: | :---: | :---: |
 | [Codesignal](https://github.com/hans0517/hans/tree/master/Codesignal) | [Leetcode](https://github.com/hans0517/hans/tree/master/Leetcode) | [CS50](https://github.com/hans0517/hans/tree/master/CS50)
@@ -44,7 +22,7 @@
 | HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/Teresakao0421/teresa/tree/master/HW5) |
 | HW6 | [MinimumSpanningTree+ShortestPath](https://github.com/Teresakao0421/teresa/tree/master/HW6) |
 
-## 
+## 課程內容
 | 週別        | 課程內容           | 
 | :---: | :---: | 
 | week1 | 課堂介紹 | 
@@ -57,8 +35,8 @@
 | week8 | [BinaryTree](https://github.com/Teresakao0421/teresa/tree/master/code) | 
 | week9 | [BinarySearchTree](https://github.com/Teresakao0421/teresa/tree/master/HW3) | 
 | week10 | [RedBlackTree](https://github.com/Teresakao0421/teresa/tree/master/code)|
-| week11 | [Hash Table | BinaryTree](https://github.com/Teresakao0421/teresa/tree/master/HW4)  |
-| week12 | [Pair Programming&Breadth-First Search|BinarySearchTree](https://github.com/Teresakao0421/teresa/tree/master/HW3)              |
+| week11 | [Hash Table&BinaryTree](https://github.com/Teresakao0421/teresa/tree/master/HW4)  |
+| week12 | [Pair Programming&Breadth-First Search&BinarySearchTree](https://github.com/Teresakao0421/teresa/tree/master/HW3)              |
 | week13 | [Depth-First Search](https://github.com/Teresakao0421/teresa/tree/master/HW5) |
 | week14 | [Minimum Spanning Tree](https://github.com/Teresakao0421/teresa/tree/master/HW6)|
 | week15 | [Shortest Path](https://github.com/Teresakao0421/teresa/tree/master/HW6)|
