@@ -56,9 +56,9 @@
 | week7 | [MergeSort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)| 
 | week8 | [BinaryTree](https://github.com/Teresakao0421/teresa/tree/master/code) | 
 | week9 | [BinarySearchTree](https://github.com/Teresakao0421/teresa/tree/master/HW3) | 
-| week10 | [RedBlackTree] (https://github.com/Teresakao0421/teresa/tree/master/code)    |
+| week10 | [RedBlackTree](https://github.com/Teresakao0421/teresa/tree/master/code)|
 | week11 | [Hash Table | BinaryTree](https://github.com/Teresakao0421/teresa/tree/master/HW4)  |
-| week12 | [Pair Programming&Breadth-First Search|BinarySearchTree(https://github.com/Teresakao0421/teresa/tree/master/HW3)               |
+| week12 | [Pair Programming&Breadth-First Search|BinarySearchTree](https://github.com/Teresakao0421/teresa/tree/master/HW3)              |
 | week13 | [Depth-First Search](https://github.com/Teresakao0421/teresa/tree/master/HW5) |
 | week14 | [Minimum Spanning Tree](https://github.com/Teresakao0421/teresa/tree/master/HW6)|
 | week15 | [Shortest Path](https://github.com/Teresakao0421/teresa/tree/master/HW6)|
