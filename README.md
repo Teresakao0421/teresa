@@ -27,7 +27,7 @@
 ## 📚HW
 | HW        | LINK           | 
 | :---: | :---: | 
-| HW1 | [QuickSort](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort) |
+| HW1 | [QuickSort](https://github.com/Teresakao0421/teresa/tree/master/HW1) |
 | HW2 | [MergeSort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)&[HeapSort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort)|
 | HW3 | [BinarySearchTree](https://github.com/Teresakao0421/teresa/tree/master/HW3) | 
 | HW4 | [HashTable](https://github.com/Teresakao0421/teresa/tree/master/HW4) |
@@ -40,7 +40,7 @@
 | week1 | 課堂介紹 | 
 | week2 | [Linked List](https://github.com/Teresakao0421/teresa/tree/master/week2) | 
 | week3 | [Stack&Queue](https://github.com/Teresakao0421/teresa/tree/master/week3) | 
-| week4 | [Quick Sort](https://github.com/Teresakao0421/teresa/tree/master/quick%20sort)&[Set Mismatch](https://github.com/Teresakao0421/teresa/tree/master/code)&[Insertion Sort](https://github.com/Teresakao0421/teresa/tree/master/code) | 
+| week4 | [Quick Sort](https://github.com/Teresakao0421/teresa/tree/master/HW1)&[Set Mismatch](https://github.com/Teresakao0421/teresa/tree/master/code)&[Insertion Sort](https://github.com/Teresakao0421/teresa/tree/master/code) | 
 | week5 | 雙十放假 | 
 | week6 | [Spyder&HeapSort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort) | 
 | week7 | [MergeSort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)| 
