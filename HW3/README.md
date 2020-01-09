@@ -1,3 +1,5 @@
+# Code
+[Binary Search Tree](https://github.com/Teresakao0421/teresa/blob/master/HW3/binary_search_tree_06170215.py)
 # Binary Search Tree - Search.Insert.Delete.Modify功能介紹：
 ## binary search tree 原理介紹:(學習歷程裡也有附)
 Binary Search Tree原理：
