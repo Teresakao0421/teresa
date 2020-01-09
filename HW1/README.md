@@ -24,7 +24,7 @@ Quick Sort是一種「把大問題分成小問題處理」的Divide and Conquer�
 ![](https://github.com/Teresakao0421/teresa/blob/master/quick%20sort/images/第三張圖.jpg)
 
 ## Code
-[Quick sort程式碼]()
+[Quick sort程式碼](https://github.com/Teresakao0421/teresa/blob/master/HW1/quick_sort_06170215.py)
 
 ## Learn
-[Quick sort學習歷程]()
+[Quick sort學習歷程](https://github.com/Teresakao0421/teresa/blob/master/HW1/QuickSort%20學習歷程.ipynb)
