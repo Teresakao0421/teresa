@@ -22,3 +22,9 @@ Quick Sort是一種「把大問題分成小問題處理」的Divide and Conquer�
 發現這樣左邊的數列並沒有按照大小排列，所以應該還要繼續找尋基準點。
 
 ![](https://github.com/Teresakao0421/teresa/blob/master/quick%20sort/images/第三張圖.jpg)
+
+## Code
+[Quick sort程式碼]()
+
+## Learn
+[Quick sort學習歷程]()
