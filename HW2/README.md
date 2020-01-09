@@ -6,5 +6,5 @@
 [Heap sort程式碼](https://github.com/Teresakao0421/teresa/blob/master/HW2/heap_sort.py)
 [Merge sort程式碼](https://github.com/Teresakao0421/teresa/blob/master/HW2/merge_sort.py)
 ## Learn
-[Quick sort學習歷程](https://github.com/Teresakao0421/teresa/blob/master/HW2/https://github.com/Teresakao0421/teresa/blob/master/HW2/heap_sort學習歷程.流程圖.文字說明.ipynb)
-[Merge sort學習歷程](https://github.com/Teresakao0421/teresa/blob/master/HW2/https://github.com/Teresakao0421/teresa/blob/master/HW2/merge_sort學習歷程.流程圖.文字說明.ipynb)
+[Heap sort學習歷程](https://github.com/Teresakao0421/teresa/blob/master/HW2/heap_sort學習歷程.流程圖.文字說明.ipynb)
+[Merge sort學習歷程](https://github.com/Teresakao0421/teresa/blob/master/HW2/merge_sort學習歷程.流程圖.文字說明.ipynb)
