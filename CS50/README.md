@@ -30,6 +30,8 @@
 - [介紹簡單的Debug](http://markjong001.pixnet.net/blog/post/194793749)
 
 ###### Reference
-- (https://e8859487.pixnet.net/blog/post/402632162-python-傳值%28pass-by-value%29-vs-傳址%28pass-by-address%29-vs-)
-- (https://www.runoob.com/python/python-cgi.html)
-- (http://markjong001.pixnet.net/blog/post/194793749)
+- https://e8859487.pixnet.net/blog/post/402632162-python-傳值%28pass-by-value%29-vs-傳址%28pass-by-address%29-vs-
+- https://www.runoob.com/python/python-cgi.html
+- http://markjong001.pixnet.net/blog/post/194793749
+- https://blog.kdchang.cc/2016/10/30/python101-tutorial/
+
