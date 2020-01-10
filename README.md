@@ -28,7 +28,7 @@
 | HW        | LINK           | 
 | :---: | :---: | 
 | HW1 | [QuickSort](https://github.com/Teresakao0421/teresa/tree/master/HW1) |
-| HW2 | [MergeSort](https://github.com/Teresakao0421/teresa/tree/master/merge%20sort)&[HeapSort](https://github.com/Teresakao0421/teresa/tree/master/heap%20sort)|
+| HW2 | [MergeSort&HeapSort](https://github.com/Teresakao0421/teresa/tree/master/HW2)|
 | HW3 | [BinarySearchTree](https://github.com/Teresakao0421/teresa/tree/master/HW3) | 
 | HW4 | [HashTable](https://github.com/Teresakao0421/teresa/tree/master/HW4) |
 | HW5 | [BreadthFristSearch+DepthFristSearch](https://github.com/Teresakao0421/teresa/tree/master/HW5) |
