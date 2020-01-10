@@ -3,14 +3,14 @@
 定義：
 - 每個節點最多有兩個子節點。
 - 子節點有左右之分。
-![]()
+![](https://github.com/Teresakao0421/teresa/blob/master/code/code%20image/bt.png)
 
 
 ## [Code](https://github.com/Teresakao0421/teresa/blob/master/code/Binary%20Tree.py)
 
 # Red Black Tree
 BST的進階版Red Black Tree(RBT，紅黑樹)，RBT其實也是BST(滿足Key(L)<Key(Current)<Key(R))，不過RBT的node比BST多加了「顏色」(紅色或黑色)，而正因為多了「顏色」，便能修正BST有可能退化成Linked list的潛在缺陷。
-![]()
+![](https://github.com/Teresakao0421/teresa/blob/master/code/code%20image/rb.png)
 
 ## [Code](https://github.com/Teresakao0421/teresa/blob/master/code/RedBlackTree.py)
 
@@ -28,5 +28,5 @@ nums只存在1~n之間的數，那-1就可以作為下標。
 - 由後往前和已排序數列元素比較，直到遇到不大於自己的元素並插入此元素之後；若都沒有則插入在最前面。
 - 重複以上動作直到未排序數列全部處理完成。
 
-![]()
+![](https://github.com/Teresakao0421/teresa/blob/master/code/code%20image/in.png)
 ## [Code](https://github.com/Teresakao0421/teresa/blob/master/code/insertionSort.py)
