@@ -8,8 +8,8 @@
 
 # Set Mismatch
 ##
-## [Code]()
+## [Code](https://github.com/Teresakao0421/teresa/blob/master/code/Set%20Mismatch.py)
 
 # Insertion sort
 ##
-## [Code]()
+## [Code](https://github.com/Teresakao0421/teresa/blob/master/code/insertionSort.py)
