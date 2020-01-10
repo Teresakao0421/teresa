@@ -1,4 +1,12 @@
 # CS50 Learn
+CS50（Introduction to Computer Science）是一堂美國哈佛大學自 1989 年開始教授的計算機概論課，即使在網路科技起飛的 2002 年，走在時代尖端的哈佛大學選修這堂課的人數一樣慘兮兮，低於 100 人。但是現在修課人數卻高達800人！CS50 課程為期十二週，一週上課兩次，一次一小時。上課內容從最基本的二進位、ASCII、演算法、偽代碼、C 語言語法及應用、排序法、哈希表等，到 TCP/IP、HTTP、HTML、CSS、PHP、SQL、JavaScript、Ajax，一直到網路安全性（Cybersecurity）；不但將電腦科學裡最重要的基礎都帶了一次，還會結合歷史和新聞時事來講授，對初學者來說，內容是滿有分量的。
+現在以 818 名大學部學生選修的驚人數字，成為常春藤聯盟大學裡最受歡迎的選修課，其原因有二：
+
+1.趨勢所致：電腦科學可以說是現在最夯的學科，畢業後工作穩定、薪水高。
+2.授課教授 David Malan 跟他強大的 TA 軍團。
+
+最重要的是：CS50將資源開放給全世界，只要上youtube就能找到高清版學習影片那我還不快把握學習！！
+- [超過800人選修,魅力何在？](https://www.inside.com.tw/article/4209-harvard-cs50)
 
 ## Web
 [About CS50](http://cs50.tv/2013/fall/#about,lectures)
@@ -34,4 +42,4 @@
 - https://www.runoob.com/python/python-cgi.html
 - http://markjong001.pixnet.net/blog/post/194793749
 - https://blog.kdchang.cc/2016/10/30/python101-tutorial/
-
+- https://www.inside.com.tw/article/4209-harvard-cs50
