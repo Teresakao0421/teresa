@@ -1,7 +1,7 @@
 # CS50 Learn
 
-# Video
-[2013week5](https://www.youtube.com/watch?v=IEuvKVjw2oM)
+# Web
+[About CS50](http://cs50.tv/2013/fall/#about,lectures)
 
 ---
 # 190927 Friday
