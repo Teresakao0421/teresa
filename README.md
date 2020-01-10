@@ -22,7 +22,7 @@
 ## 🛠code
 | CodeSignal | LeetCode | CS50 |
 | :---: | :---: | :---: |
-| [Codesignal](https://github.com/Teresakao0421/teresa/tree/master/Codesignal) | [Leetcode](https://github.com/Teresakao0421/teresa/tree/master/Leetcode) | [CS50](https://github.com/hans0517/hans/tree/master/CS50)
+| [Codesignal](https://github.com/Teresakao0421/teresa/tree/master/Codesignal) | [Leetcode](https://github.com/Teresakao0421/teresa/tree/master/Leetcode) | [CS50](https://github.com/Teresakao0421/teresa/tree/master/CS50)
 
 ## 📚HW
 | HW        | LINK           | 
