@@ -1,6 +1,6 @@
 # Binary Tree
 ##
-## [Code]()
+## [Code](https://github.com/Teresakao0421/teresa/blob/master/code/Binary%20Tree.py)
 
 # Red Black Tree
 ##
