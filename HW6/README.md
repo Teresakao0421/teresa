@@ -4,7 +4,7 @@
 ## Learn
 ### [Dijkstra&Kruskal學習歷程](https://github.com/Teresakao0421/teresa/blob/master/HW6/Dijkstra與Kruskal流程圖%20程式碼學習歷程與Dijkstra與Kruskal原理說明.ipynb)
 
-## Dijkstra&Kruskal:
+## Dijkstra&Kruskal簡介:
 Dijkstra's algorithm:
 戴克斯特拉算法使用了廣度優先搜尋解決賦權有向圖的單源最短路徑問題。
 該演算法存在很多變體；戴克斯特拉的原始版本找到兩個頂點之間的最短路徑，
