@@ -1,7 +1,7 @@
 ## Code
-### [BFS&DFS](https://github.com/Teresakao0421/teresa/blob/master/HW5/BFS_06170215.py)
+### [Dijkstra與Kruskal](https://github.com/Teresakao0421/teresa/blob/master/HW6/Dijkstra_06170215.py))
 
 ## Learn
-### [BFS&DFS學習歷程](https://github.com/Teresakao0421/teresa/blob/master/HW5/BFS%26DFS流程圖.程式碼學習歷程與BFS.DFS原理%26比較.ipynb)
+### [Dijkstra與Kruskal學習歷程](https://github.com/Teresakao0421/teresa/blob/master/HW6/Dijkstra與Kruskal流程圖%20程式碼學習歷程與Dijkstra與Kruskal原理說明.ipynb)
 
 ## 簡介:
