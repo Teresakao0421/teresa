@@ -20,3 +20,4 @@ DFS & BFS 比較:
     反之，在求最短路問題時，DFS需要反覆經過同樣的狀態，所以此時使用BFS為好。
     BFS會把狀態逐個加入佇列，因此通常需要與狀態數成正比的記憶體空間。
     反之，DFS是與遞迴深度成正比的。一般與狀態數相比，遞迴深度並不會太大，所以DFS更加省記憶體。
+![](https://github.com/Teresakao0421/teresa/blob/master/binary%20tree/BFS/BFS%20VS%20DFS%20.png)
