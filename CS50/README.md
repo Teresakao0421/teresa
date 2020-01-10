@@ -7,12 +7,12 @@
 ## 190927 Friday
 > [CS502013wee5](https://www.youtube.com/watch?v=IEuvKVjw2oM)
 
-##3 Notes
+### Notes
 1. [Pointers]
 2. [CGI]
 3. [Debug]
 
-###3 Pointers
+#### Pointers
 > What does the `*` mean?  
   - `char*`: `*` 是一個指針，儲存一個實際在記憶體裡的某個地址。`char*` 表示指向記憶體內的一個字串的第一個位置。
   - `int* tmp`: 宣告一個叫做tmp的指標變數，這個變數的資料型態是int整數，存放一個地址。
