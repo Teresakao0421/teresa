@@ -12,9 +12,9 @@ CS50（Introduction to Computer Science）是一堂美國哈佛大學自 1989 �
 [About CS50](http://cs50.tv/2013/fall/#about,lectures)
 
 ---
-## 190927 Friday
-> [CS502013wee5](https://www.youtube.com/watch?v=IEuvKVjw2oM)
-
+## video
+> [CS502013week5](https://www.youtube.com/watch?v=IEuvKVjw2oM)
+> [CS502013week3](https://www.youtube.com/watch?v=xqhcVALTw54)
 ### Notes
 1. [Pointers]
 2. [CGI]
