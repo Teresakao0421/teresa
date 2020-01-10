@@ -15,10 +15,7 @@ BST的進階版Red Black Tree(RBT，紅黑樹)，RBT其實也是BST(滿足Key(L)
 ## [Code](https://github.com/Teresakao0421/teresa/blob/master/code/RedBlackTree.py)
 
 # Set Mismatch
-先使用Hash Table解題，第一遍遍歷dict[數字]=次數，第二遍遍歷找1~n的數字出現的次數是2和0的即可。
-先排序，再遍歷一次。
-nums只存在1~n之間的數，那-1就可以作為下標。
-遍歷數n時把abs(n)作為下標，nums[n]取反，重複的下標會發現之前已經變負，缺失的下標。
+使用hash table去解題。
 ## [Code](https://github.com/Teresakao0421/teresa/blob/master/code/Set%20Mismatch.py)
 
 # Insertion sort
