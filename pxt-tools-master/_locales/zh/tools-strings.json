@@ -1,0 +1,5 @@
+{
+    "tools|block": "工具",
+    "tools.account|block": "wifi 帳號 %account|密碼 %passwords",
+    "tools.passwords|block": "LED顯示wifi 帳號 %account|密碼 %passwords"
+}
